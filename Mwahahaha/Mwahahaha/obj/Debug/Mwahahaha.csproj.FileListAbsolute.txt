@@ -1,0 +1,13 @@
+\\banner.main.ad.rit.edu\students\mvr9788\IGMProfile\Desktop\Visual Studio Projects\Mwahahaha\Mwahahaha\bin\Debug\Mwahahaha.exe.config
+F:\Visual Studio Projects\Mwahahaha\Mwahahaha\bin\Debug\Mwahahaha.exe.config
+F:\Visual Studio Projects\Mwahahaha\Mwahahaha\bin\Debug\Mwahahaha.exe
+F:\Visual Studio Projects\Mwahahaha\Mwahahaha\bin\Debug\Mwahahaha.pdb
+F:\Visual Studio Projects\Mwahahaha\Mwahahaha\obj\Debug\Mwahahaha.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\Mwahahaha\Mwahahaha\obj\Debug\Mwahahaha.exe
+F:\Visual Studio Projects\Mwahahaha\Mwahahaha\obj\Debug\Mwahahaha.pdb
+C:\Users\Michael\Desktop\CompFolder\hw\mwaha\Mwahahaha\Mwahahaha\bin\Debug\Mwahahaha.exe.config
+C:\Users\Michael\Desktop\CompFolder\hw\mwaha\Mwahahaha\Mwahahaha\obj\Debug\Mwahahaha.exe
+C:\Users\Michael\Desktop\CompFolder\hw\mwaha\Mwahahaha\Mwahahaha\obj\Debug\Mwahahaha.pdb
+C:\Users\Michael\Desktop\CompFolder\hw\mwaha\Mwahahaha\Mwahahaha\bin\Debug\Mwahahaha.exe
+C:\Users\Michael\Desktop\CompFolder\hw\mwaha\Mwahahaha\Mwahahaha\bin\Debug\Mwahahaha.pdb
+C:\Users\Michael\Desktop\CompFolder\hw\mwaha\Mwahahaha\Mwahahaha\obj\Debug\Mwahahaha.csprojResolveAssemblyReference.cache
